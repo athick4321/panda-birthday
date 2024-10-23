@@ -5,7 +5,7 @@ function validateLogin() {
 
     // Correct credentials
     const correctUsername = "panda";
-    const correctPassword = "24-10-2004";
+    const correctPassword = "athick";
 
     if (username === correctUsername && password === correctPassword) {
         // Redirect to another page if credentials are correct
